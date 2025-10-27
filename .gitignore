@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.log
+*.db
+SafeVault.zip
+/.DS_Store
+**/appsettings.*.json
+secrets.json

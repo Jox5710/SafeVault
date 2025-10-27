@@ -1,0 +1,1 @@
+This folder is reserved for unit and integration tests. Add tests using xUnit and WebApplicationFactory.
