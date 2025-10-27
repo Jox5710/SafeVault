@@ -44,3 +44,4 @@ The project includes a GitHub Actions workflow `.github/workflows/ci.yml` that b
 - Replace `JwtSettings:Key` with a strong environment-based secret in production.
 - Use a managed database and secure connection strings.
 - Consider adding logging, rate-limiting, and input validation libraries (e.g., FluentValidation).
+"# SafeVault" 
